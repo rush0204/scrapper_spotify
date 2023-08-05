@@ -54,6 +54,3 @@ $ pip install -r requirements.txt
 - Make sure you add your Spotify account credentials in the script
 - Run the script and enter keywords and number of tracks you want to scrape
 
-## Contact
-
-For any feedback or queries, please reach out to me at [suwaidaslam@gmail.com](suwaidaslam@gmail.com).
